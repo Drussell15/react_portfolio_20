@@ -1,53 +1,17 @@
+# [YouTube Tutorial](https://www.youtube.com/playlist?list=PL3KAvm6JMiowqFTXj3oPQkhP7aCgRHFTm)
+I created a Youtube code along tutorial for this project. Click the link above to view!
 
-### Updated Portfolio
+# react-portfolio-starter
+A React based personal portfolio app using create-react-app and React Router v4.
 
-Your updated site should still have all of the content it previously had:
+# Tools
+* create-react-app cli
+* React MDL material design
+* React Router v4
 
-* Your name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-* A link to a PDF of your resume with updated projects
-
-* A list of projects. For each project, make sure you have the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * GIF or screenshot of the deployed application
-
-
-#### Design
-
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-* If you want to go above and beyond, try using animations and react component libraries. Note 
-that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
-
-### React
-
-Additionally, this new portfolio should be created using React.
-
-At a minimum, your portfolio should include the following:
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-
-### Updated LinkedIn Profile 
+# Start App
+Clone repo, install, cd into folder and run:
+```git
+npm install
+npm start
+```
